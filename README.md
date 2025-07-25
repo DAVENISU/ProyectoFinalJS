@@ -30,9 +30,9 @@ ProyectoFinalNavales/
 ├── js/
 │   ├── historial.js
 │   └── main.js
-├── db/
-│   └── data.json
 ├── img/
 │   └── logo.png
+├── db/
+│   └── data.json
 └── README.md
 
