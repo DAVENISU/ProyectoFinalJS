@@ -27,10 +27,12 @@ ProyectoFinalNavales/
 ├── index.html
 ├── style/
 │   └── styles.css
-├── db/
-│   └── data.json
 ├── js/
 │   ├── historial.js
 │   └── main.js
+├── db/
+│   └── data.json
+├── img/
+│   └── logo.png
 └── README.md
 
