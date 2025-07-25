@@ -14,7 +14,13 @@ Botón para borrar historial
 Interfaz moderna y responsiva con Bootstrap
 Animación de carga inicial con CSS
 
+¿Cómo usar?
+Clona o descarga este repositorio.
+Asegúrate de que todos los archivos están en su respectiva carpeta (img, style, js, db).
+Abre index.html en tu navegador.
+-- Puedes empezar a convertir divisas.
 
+```
 ## 📁 Estructura del proyecto
 ProyectoFinalNavales/
 │
@@ -28,9 +34,3 @@ ProyectoFinalNavales/
 │   └── main.js
 └── README.md
 
-
-¿Cómo usar?
-Clona o descarga este repositorio.
-Asegúrate de que todos los archivos están en su respectiva carpeta (img, style, js, db).
-Abre index.html en tu navegador.
--- Puedes empezar a convertir divisas.
